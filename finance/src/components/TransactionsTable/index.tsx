@@ -1,5 +1,5 @@
 import { FetchApiContext } from '@/contexts/FetchApi';
-import { Edit } from '@/Edit';
+import { Edit } from '../Edit';
 import { Fetcher } from '@/functions/Fetch';
 import React, { useContext } from 'react';
 import { IoArrowUpCircleOutline, IoArrowDownCircleOutline } from "react-icons/io5";
